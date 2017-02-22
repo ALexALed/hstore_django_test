@@ -1,0 +1,8 @@
+appdirs==1.4.0
+Django==1.10.5
+django-extensions==1.7.6
+django-hstore==1.5a0
+packaging==16.8
+psycopg2==2.6.2
+pyparsing==2.1.10
+six==1.10.0
